@@ -1,0 +1,5 @@
+brew "emscripten"
+brew "pyenv"
+brew "pyenv-virtualenv"
+cask "visual-studio-code"
+vscode "EditorConfig.EditorConfig"
